@@ -68,11 +68,12 @@ border-bottom: 1px solid #dadada;
 	object-fit: cover;
 }
 
-.photo:hover{
-border: 3px solid #FFD700;
+.photo:hover
+{
+border: 3px solid 	#87CEFA;
 }
 
 
 .contacts dt:hover{
-	color: #FFD700 ;
+	color: 	#87CEFA ;
 }
